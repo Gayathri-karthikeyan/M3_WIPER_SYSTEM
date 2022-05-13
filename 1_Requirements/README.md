@@ -22,6 +22,14 @@ STM32 is a family of 32-bit microcontroller integrated circuits by STMicroelectr
 
 ## LED:
 
+## PUSH BUTTON:
+
+A push button switch controls an action in a machine or other type of process.
+
+Most push button switches function in the same way. Pressure is placed on the button or actuator, resulting in the depression of the internal spring and contacts and the touching of stable contacts at the bottom of the switch. This process will either close or open the electrical circuit. The repeat application of pressure will cause the spring to retract and alter the status of the push button connection.
+
+You can choose between push buttons featuring normally open or closed contacts, which change state upon actuation. Continual pressure must be maintained on the button of a momentary switch to prompt the action. However, it will remain in a stable state within a latching push button until pressure is reapplied.
+
 ## SWOT ANALYSIS:
 ## ADVANTAGES:
 ## DISADVANTAGES:
