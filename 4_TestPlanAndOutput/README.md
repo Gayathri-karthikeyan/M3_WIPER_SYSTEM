@@ -1,1 +1,10 @@
+# **OUTPUT**
+## ON MODE 1
+![ON MODE](https://user-images.githubusercontent.com/92981586/168260853-9c137ac1-c877-4035-9f9f-740051db03a0.PNG)
+
+## ON MODE 2
+![ON MODE 2](https://user-images.githubusercontent.com/92981586/168260954-3b661e7c-90d7-43ee-949b-c6acc3ca935a.png)
+
+## ON MODE 3
+![ON MODE 3](https://user-images.githubusercontent.com/92981586/168261029-5ef63fa7-c2f6-4c18-b4ff-29ed861a965b.PNG)
 
