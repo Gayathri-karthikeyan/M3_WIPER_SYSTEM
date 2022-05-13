@@ -22,6 +22,10 @@ STM32 is a family of 32-bit microcontroller integrated circuits by STMicroelectr
 
 ## LED:
 
+The LED is a special type of diode and they have similar electrical characteristics to a PN junction diode. Hence the LED allows the flow of current in the forward direction and blocks the current in the reverse direction. The LED occupies a small area which is less than 1 mm2. The applications of LEDs used to make various electrical and electronic projects.
+
+The light-emitting diode simply, we know as a diode. When the diode is forward biased, then the electrons & holes are moving fast across the junction and they are combined constantly, removing one another out. Soon after the electrons are moving from the n-type to the p-type silicon, it combines with the holes, then it disappears. Hence it makes the complete atom & more stable and it gives the little burst of energy in the form of a tiny packet or photon of light.
+
 ## PUSH BUTTON:
 
 A push button switch controls an action in a machine or other type of process.
