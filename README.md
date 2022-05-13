@@ -1,6 +1,6 @@
 # M3_WIPPER_SYSTEM
-# Code Quality ![Code Quality Score]()
-# Code Grade![Code Grade]()
+# Code Quality ![Code Quality Score](https://api.codiga.io/project/33392/score/svg)
+# Code Grade![Code Grade](https://api.codiga.io/project/33392/status/svg)
 # Codacy 
 [![Codacy Badge]()
 # Cppcheck Analysis
