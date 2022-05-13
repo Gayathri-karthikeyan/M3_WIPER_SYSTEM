@@ -21,7 +21,7 @@
 # **OUTPUT**
 
 ## OFF MODE
-
+![OFF MODE](https://user-images.githubusercontent.com/92981586/168258579-9ec545b8-dfcb-4f52-bd2a-40c5dc823a76.PNG)
 
 ## ON MODE 1
 ![ON MODE](https://user-images.githubusercontent.com/92981586/168260853-9c137ac1-c877-4035-9f9f-740051db03a0.PNG)
