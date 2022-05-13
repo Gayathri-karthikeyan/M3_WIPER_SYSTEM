@@ -35,8 +35,29 @@ Most push button switches function in the same way. Pressure is placed on the bu
 You can choose between push buttons featuring normally open or closed contacts, which change state upon actuation. Continual pressure must be maintained on the button of a momentary switch to prompt the action. However, it will remain in a stable state within a latching push button until pressure is reapplied.
 
 ## SWOT ANALYSIS:
+
+
+
 ## ADVANTAGES:
+
+* Low cost automation project.
+
+* Free from wear adjustment.
+
+* Less power consumption.
+
+* Operating principle is very easy.
+
+* Installation is simplified very much.
+
+* It is possible to operate automatically by proving ON/OFF switch.
+
 ## DISADVANTAGES:
+
+* This system applied in the case of water fallin on the glass only
+
+* Addition cost is required to install this system to four wheelers.
+
 ## LOW LEVEL REQUIREMENTS:
 
 |SNO|DESCRIPTION|STATUS|
