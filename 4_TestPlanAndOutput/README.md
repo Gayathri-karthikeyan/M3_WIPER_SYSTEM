@@ -30,5 +30,8 @@
 ![ON MODE 2](https://user-images.githubusercontent.com/92981586/168260954-3b661e7c-90d7-43ee-949b-c6acc3ca935a.png)
 
 ## ON MODE 3
-![ON MODE 3](https://user-images.githubusercontent.com/92981586/168261029-5ef63fa7-c2f6-4c18-b4ff-29ed861a965b.PNG)
+![ON MODE 3](https://user-images.githubusercontent.com/92981586/168422909-c60a85e2-3132-40b0-9b1c-77500fbde8b9.png)
+
+## ON MODE 4
+![ON MODE 4](https://user-images.githubusercontent.com/92981586/168261029-5ef63fa7-c2f6-4c18-b4ff-29ed861a965b.PNG)
 
