@@ -35,8 +35,7 @@ Most push button switches function in the same way. Pressure is placed on the bu
 You can choose between push buttons featuring normally open or closed contacts, which change state upon actuation. Continual pressure must be maintained on the button of a momentary switch to prompt the action. However, it will remain in a stable state within a latching push button until pressure is reapplied.
 
 ## SWOT ANALYSIS:
-
-
+![SWOT ANALYSIS](https://user-images.githubusercontent.com/92981586/168423507-47d08292-fa76-47ab-946f-c883ad3cb1f0.png)
 
 ## ADVANTAGES:
 
